@@ -28,9 +28,8 @@ Pour exécuter l'un des scripts, utilisez la commande `node` suivie du nom du sc
 
 # Commandes :
 ```bash
-// add
 node writeRecipe.js "Frite" "ingrédient1,ingrédient2,ingrédient3" "Instructions de la recette"
-// Recherche
+```bash
 node searchRecipe.js "Frite"
-// Delete
+```bash
 node deleteRecipe.js "Frite"
