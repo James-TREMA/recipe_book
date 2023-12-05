@@ -1,0 +1,10 @@
+Titre: Frite
+
+Ingrédients:
+ingrédient1
+ingrédient2
+ingrédient3
+
+Instructions:
+Instructions de la recette
+
