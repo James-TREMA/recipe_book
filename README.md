@@ -27,12 +27,15 @@ Pour ce devoir on utilise le système de fichiers Node.js (`fs`) pour lire et é
 Pour exécuter l'un des scripts, utilisez la commande `node` suivie du nom du script et des arguments nécessaires. Par exemple, pour ajouter une recette :
 
 # Commandes :
+// Ajouter une recette :
 ```bash
 node writeRecipe.js "Frite" "ingrédient1,ingrédient2,ingrédient3" "Instructions de la recette"
 ```
+// Recherché une recette :
 ```bash
 node searchRecipe.js "Frite"
 ```
+// Supprimé une recette :
 ```bash
 node deleteRecipe.js "Frite"
 ```
