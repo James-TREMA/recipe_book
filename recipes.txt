@@ -6,5 +6,4 @@ ingrédient2
 ingrédient3
 
 Instructions:
-Instructions de la recette
-
+Description de la recette
